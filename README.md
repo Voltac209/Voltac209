@@ -1,15 +1,16 @@
 <img src="Raghav Sood.png" width="100%" />
 <table>
-  <tr>LeetCode
+  <tr>
+    <td>LeetCode</td>
   </tr>
   <tr>
-    Resume
+    <td>Resume</td>
   </tr>
   <tr>
-    Portfolio
+    <td>Portfolio</td>
   </tr>
   <tr>
-    LinkedIn
+    <td>Linkedin</td>
   </tr>
 </table>
 
