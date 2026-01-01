@@ -1,4 +1,17 @@
 <img src="Raghav Sood.png" width="100%" />
+<table>
+  <tr>LeetCode
+  </tr>
+  <tr>
+    Resume
+  </tr>
+  <tr>
+    Portfolio
+  </tr>
+  <tr>
+    LinkedIn
+  </tr>
+</table>
 
 
 ## Hi there 👋
