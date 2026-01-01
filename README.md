@@ -2,14 +2,8 @@
 <table>
   <tr>
     <td>LeetCode</td>
-  </tr>
-  <tr>
     <td>Resume</td>
-  </tr>
-  <tr>
     <td>Portfolio</td>
-  </tr>
-  <tr>
     <td>Linkedin</td>
   </tr>
 </table>
