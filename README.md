@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" />
+<img src="Raghav Sood.png" width="100%" />
 
 
 ## Hi there 👋
