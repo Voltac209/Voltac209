@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="Raghav Sood.png" alt="Banner" />
-</p>
+<img src="banner.png" width="100%" />
+
 
 ## Hi there 👋
 
