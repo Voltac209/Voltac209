@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Raghav Sood.png" alt="Banner" />
+</p>
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on building my profile across various platforms
